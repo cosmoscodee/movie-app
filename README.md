@@ -1,4 +1,4 @@
-# Clone the Momentum
+# Clone the Movie App
 
 > 무비앱을 클론한 본 프로젝트는 NomadCoders를 참고하여 만들었습니다.
 > https://academy.nomadcoders.co/courses/category/KR
