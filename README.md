@@ -5,21 +5,17 @@
 
 <br/>
 
-#### 개발,기술 환경
+#### `개발,기술 환경`
 - Javascript(ECMAScript6)
 - Intellij IDEA
 -
 
 <br/>
 
-!! Reactjs, Nodejs의 기초 공부를 목적으로 둔 프로젝트입니다.
+Reactjs, Nodejs의 기초 공부를 목적으로 둔 프로젝트입니다.
 
 ---
 
 <br/>
 
-## 주요기능
-
-<br/>
-
-### 
+#### `주요기능`
